@@ -15,7 +15,8 @@ The project uses the **BlinkIT Grocery Data** dataset, which contains details on
 - Outlet size and location
 - Item categories and fat content
 
-The dataset is included in the repository as an Excel file: `BlinkIT Grocery Data.xlsx`
+The dataset is included in the repository as an Excel file: [`BlinkIT Grocery Data.xlsx`](https://github.com/AnjaliDhosariya/PowerBI/blob/main/BlinkIT%20Grocery%20Data.xlsx)
+
 
 ## Dashboard Features
 The Power BI dashboard includes the following key visualizations:
